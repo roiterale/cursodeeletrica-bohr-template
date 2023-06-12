@@ -1,0 +1,22 @@
+{
+  "name": "devlinks-bohr-template",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "next lint",
+    "export": "next export"
+  },
+  "keywords": [
+    "devlink"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stitches/react": "^1.2.8",
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0"
+  }
+}
